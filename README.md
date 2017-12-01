@@ -1,1 +1,1 @@
-# Computational-Motion-Planning
+# Computational-Motion-Planning - Coursera
